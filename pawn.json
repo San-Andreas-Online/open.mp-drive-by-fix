@@ -1,6 +1,6 @@
 {
 	"user": "San-Andreas-Online",
-	"repo": "pawn-unoccupied-vehicle-damage",
+	"repo": "open.mp-drive-by-fix",
     "include_path": "include",
 	"dependencies": [
 		"sampctl/samp-stdlib"
