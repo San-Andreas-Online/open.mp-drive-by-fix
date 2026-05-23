@@ -11,6 +11,15 @@
 
 This script was originally made by the community in fixes.inc, and is now maintained as a standalone library by San Andreas Online. It restores the player's ability to toggle the drive-by mode without losing their weapon, which is a common issue in SA-MP and open.mp when entering a vehicle as a passenger.
 
+<div align="center">
+
+If you like this project, consider supporting us!
+
+[![PayPal](https://img.shields.io/badge/paypal-One%20Time%20Donation-003087?style=flat&logo=paypal)](https://paypal.me/MichaelAceAnderson)
+[![Patreon](https://img.shields.io/badge/patreon-Subscription-FF424D?style=flat&logo=patreon)](https://www.patreon.com/posts/san-andreas-open-153811828)
+
+</div>
+
 ## Contributing to the project
 
 Before starting, please read the [License](LICENSE) to understand the permissions and limitations of the project.
